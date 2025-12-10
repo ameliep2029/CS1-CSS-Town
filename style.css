@@ -1,1 +1,25 @@
+body {
+background: url("tile.jpg");
+background-size: 45%;
+margin: 0;
+padding: 0;
+height: 100%;
+width: 100%
 
+
+}
+
+#sky {
+background: linear-gradient(deepskyblue, lightcyan, aliceblue); 
+height: 60%;
+width: 100%;
+
+}
+
+#sun {
+font-size: 60px;
+position: absolute;
+top: 30px;
+left: 100px;
+
+}
