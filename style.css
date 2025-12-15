@@ -14,6 +14,7 @@ background: linear-gradient(deepskyblue, lightcyan, aliceblue);
 height: 60%;
 width: 100%;
 
+
 }
 
 #sun {
@@ -21,5 +22,36 @@ font-size: 60px;
 position: absolute;
 top: 30px;
 left: 100px;
+
+}
+
+#house-1 {
+background: white;
+height: 80px;
+width: 100px;
+position: absolute;
+top: 345px;
+left: 600px;
+
+}
+
+#roof-1 {
+
+border-bottom: 45px solid rgb(26, 130, 235);
+border-left: 45px solid transparent;
+border-right: 45px solid transparent;
+position: relative;
+bottom: 45px;
+
+
+
+}
+
+#tree {
+width: 80px;
+position: absolute;
+top: 60px;
+left: 76;
+
 
 }
