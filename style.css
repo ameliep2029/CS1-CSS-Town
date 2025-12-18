@@ -48,10 +48,23 @@ bottom: 45px;
 }
 
 #tree {
-width: 80px;
+width: 185px;
 position: absolute;
-top: 60px;
+top: 250px;
 left: 76;
 
 
 }
+
+
+
+#beach {
+
+width: 150px;
+postition: absolute;
+top: 12px;
+left: 45px;
+}
+
+
+
